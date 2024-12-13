@@ -2,3 +2,4 @@ hi
 1st line
 2nd line
 new
+git is fun
